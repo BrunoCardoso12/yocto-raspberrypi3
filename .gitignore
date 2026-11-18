@@ -1,0 +1,5 @@
+# Arquivos gerados pelo Yocto
+build/
+downloads/
+sstate-cache/
+tmp/
